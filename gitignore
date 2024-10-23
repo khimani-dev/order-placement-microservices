@@ -1,0 +1,9 @@
+data/WiredTiger
+data/WiredTiger.turtle
+data/WiredTiger.*
+data/journal/
+data/.mongodb/
+data/diagnostic.data/
+target/
+.idea/
+docker-compose.yml
